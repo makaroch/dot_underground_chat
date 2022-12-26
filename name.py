@@ -1,4 +1,4 @@
-name = ''# тут должен быть токен
+name = ''# тут токен бота)
 
 tegi = 'Теги поиска по чату: #Сапрыкин #Камянецкий #Татьяна #Макарцев #Стоун #разборДЗ #рекомендуемаялитература #SQL #C_Sharp #python #Unity #учеба \n'
 
@@ -28,3 +28,9 @@ git = "Ники взяты из дискорда\n" \
       "Ринат: <a>https://github.com/rinsdr</a>\n" \
       "PodarkiN: <a>https://github.com/AlexPodarkin?tab=repositories</a>\n" \
       "Blynchik: <a>https://github.com/Blynchik</a>\n" \
+
+
+
+
+#podpoln =  #  id подпольного чата
+#test_chat =   # id test

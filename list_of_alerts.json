@@ -1,0 +1,22 @@
+[
+    {
+        "user_id": 1,
+        "notification": true
+    },
+    {
+        "user_id": 2,
+        "notification": true
+    },
+    {
+        "user_id": 4,
+        "notification": true
+    },
+    {
+        "user_id": 5,
+        "notification": false
+    },
+    {
+        "user_id": 6,
+        "notification": true
+    }
+]
